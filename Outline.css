@@ -8,8 +8,8 @@
 }
 
 body{
-    background-color:white;
-    color: black;
+    background-color:#000;
+    color:white;
 
 }
 .container{
@@ -30,7 +30,7 @@ nav ul li{
 }
 
 nav ul li a{
-    color:#000;
+    color:#fff;
     font-size: 18px;
     font-weight:bold;
     position: sticky;
@@ -81,7 +81,7 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 button{
      background-color: turquoise;
-    color: #000;
+    color:white;
     font-weight:bold;
     border: none;
     padding: 10px 20px ;
@@ -97,7 +97,7 @@ button{
 }
 #Des p{
     font-size:20px;
-    color:#fff;
+    color:white;
     
     
 }
