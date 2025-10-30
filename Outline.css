@@ -49,7 +49,7 @@ nav ul li a::after{
     content:'';
     width:50%;
     height:3px;
-    background: red;
+    background: turquoise;
     position:absolute;
     left:0;
     bottom: -10px;
@@ -81,7 +81,7 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 button{
      background-color: turquoise;
-    color:white;
+    color:black;
     font-weight:bold;
     border: none;
     padding: 10px 20px ;
